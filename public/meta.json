@@ -1,0 +1,512 @@
+{
+  "1.mp3": {
+    "artist": "hito wo ke mu ni ma ku no mo, o wa ri ni shi",
+    "title": "人をけむに巻くのも、終わりにしろ",
+    "album": "你可别想放烟雾弹迷惑人了",
+    "uploadedAt": "2026-07-30T13:15:12Z"
+  },
+  "10.mp3": {
+    "artist": "mata o i de",
+    "title": "またおいで",
+    "album": "欢迎你再来",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "11.mp3": {
+    "artist": "na ni ka su to re su de mo a ru no ka",
+    "title": "何かストレスでもあるのか？",
+    "album": "有什么压力吗？",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "12.mp3": {
+    "artist": "ima kara demo tadase masu yo",
+    "title": "今からでも正せますよ",
+    "album": "亡羊补牢 为时未晚",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "13.mp3": {
+    "artist": "wa ta si ke k ko u si n ke n da yo",
+    "title": "私結構真剣だよ",
+    "album": "我可是很认真的",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "14.mp3": {
+    "artist": "cyann to renraku shi te ne",
+    "title": "ちゃんと連絡してね",
+    "album": "记得保持联系哦",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "15.mp3": {
+    "artist": "kyo u ryoku shi te ku re na i ka na",
+    "title": "協力してくれないかな",
+    "album": "你能帮我吗",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "16.mp3": {
+    "artist": "o ji kan yo ro si i de syo u ka",
+    "title": "お時間よろしいでしょうか？",
+    "album": "请问您现在有时间吗？",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "17.mp3": {
+    "artist": "u nu bo re su gi  jya na i de su ka",
+    "title": "うぬぼれすぎじゃないですか",
+    "album": "你也太自恋了吧",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "18.mp3": {
+    "artist": "zurui hito desu ne",
+    "title": "ずるい人ですね",
+    "album": "你真狡猾啊",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "19.mp3": {
+    "artist": "gyaku no tachiba de kangaete miro yo",
+    "title": "逆の立場で考えてみるよ！",
+    "album": "换个角度来考虑看看！",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "2.mp3": {
+    "artist": "wa ta si hare na i ni mo kekkon ni mokyoumi a ri ma se",
+    "title": "私は恋愛にも結婚にも興味ありません",
+    "album": "我対恋爰結婚都没兴趣",
+    "uploadedAt": "2026-07-30T13:15:51Z"
+  },
+  "20.mp3": {
+    "artist": "wa tasi wo ka i ka bu ri su gi de su",
+    "title": "私を買いかぶり過ぎです",
+    "album": "您太高估我了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "21.mp3": {
+    "artist": "chi kara wo ka si te ku da sa I",
+    "title": "力を貸してください",
+    "album": "请助我一臂之力",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "22.mp3": {
+    "artist": "ko no o toko no pe- su ni no ma re te ta ma ru ga",
+    "title": "この男のペースにのまれてたまるか",
+    "album": "我可不能被他牵着鼻子走",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "23.mp3": {
+    "artist": "ore i ki te ru da ke de sei i p pa i na n da",
+    "title": "俺生きてるだけで精いっぱいなんだ",
+    "album": "光是生存 就已经让我竭尽全力",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "24.mp3": {
+    "artist": "e nande okotten no",
+    "title": "えっ？なんで怒ってんの？",
+    "album": "你怎么生气了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "25.mp3": {
+    "artist": "shigoto sagashitetari shimasen ka",
+    "title": "仕事探してたりしませんか？",
+    "album": "你在找工作吗？",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "26.mp3": {
+    "artist": "so n na ni ga me tsu ku a ri ma se n",
+    "title": "そんなにがめつくありません",
+    "album": "我没那么贪婪",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "27.mp3": {
+    "artist": "so re wo i i wake ni wa shita ku na ka t ta n de su",
+    "title": "それを言い訳にはしたくなかったんです",
+    "album": "我不想把那作为借口",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "28.mp3": {
+    "artist": "so n na ni ga me tu ku a ri ma sen",
+    "title": "そんなにがめつくありません",
+    "album": "我才没有那么小气",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "29.mp3": {
+    "artist": "me zu ra shi I",
+    "title": "珍しい",
+    "album": "真少见",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "3.mp3": {
+    "artist": "ken tou o ino ru",
+    "title": "健闘を祈る",
+    "album": "祝你万事顺利",
+    "uploadedAt": "2026-07-30T13:16:30Z"
+  },
+  "30.mp3": {
+    "artist": "yu-mo a to shi te ha hya ku te nn da",
+    "title": "ユーモアとしては 100点だ",
+    "album": "我给你的幽默打100分",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "31.mp3": {
+    "artist": "sa su ga ni na sa ke na ka tta de su",
+    "title": "さすがに情けなかったです",
+    "album": "我真的觉得很丟人",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "32.mp3": {
+    "artist": "na i sho de su",
+    "title": "内緒です",
+    "album": "我保密",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "33.mp3": {
+    "artist": "dare ka ni ittari shinai yo",
+    "title": "誰かに言ったりしないよ",
+    "album": "我不会告诉任何人的",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "34.mp3": {
+    "artist": "mo tta i na I",
+    "title": "もったいない",
+    "album": "真可惜",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "35.mp3": {
+    "artist": "nidoto ashi o fumihazusanai you ni",
+    "title": "二度と 足を 踏み外さないように",
+    "album": "以后可不要再动歪脑筋了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "36.mp3": {
+    "artist": "ze nn ryo ku wo tu ku shi ma su",
+    "title": "全力を尽くします",
+    "album": "我们会竭尽全力的",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "37.mp3": {
+    "artist": "o re no se i jya na I",
+    "title": "俺のせいじゃない！;",
+    "album": "不是我的错！",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "38.mp3": {
+    "artist": "sho mo na",
+    "title": "しょうもな;",
+    "album": "真没用",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "39.mp3": {
+    "artist": "ha na shi ga ru",
+    "title": "話がある",
+    "album": "我有话跟你说",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "4.mp3": {
+    "artist": "ko no o toko no pe- su ni no ma re te ta ma ru ga",
+    "title": "この男のペースにのまれてたまるか",
+    "album": "我可不能被他牵着鼻子走",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "40.mp3": {
+    "artist": "i i ka ta",
+    "title": "言い方",
+    "album": "说话注意点",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "41.mp3": {
+    "artist": "o boe tena i nn desu ka",
+    "title": "覚えてないんですか？",
+    "album": "你不记得了吗？",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "42.mp3": {
+    "artist": "a n ta ko so oo ba ka da",
+    "title": "あんたこそ大バカだ",
+    "album": "那你才是蠢到家了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "43.mp3": {
+    "artist": "o ko to wa ri shi ma su",
+    "title": "お断りします",
+    "album": "恕我拒绝",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "44.mp3": {
+    "artist": "ta ku hai binn de su",
+    "title": "宅配便です",
+    "album": "您的快递到了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "45.mp3": {
+    "artist": "fu k ki re ta mi ta i ne",
+    "title": "吹っ切れたみたいね",
+    "album": "看来你想开了啊",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "46.mp3": {
+    "artist": "to me te",
+    "title": "止めて",
+    "album": "停车",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "47.mp3": {
+    "artist": "gu ai wa ru i no",
+    "title": "具合悪 の？",
+    "album": "你不舒服吗",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "48.mp3": {
+    "artist": "hi to ha mi ka ke jya na I  da i ji na no ha na ka mi tai ne",
+    "title": "人は見掛けじゃない。大事なのは中身だ。",
+    "album": "人不可貌相，重要的是内在。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "49.mp3": {
+    "artist": "jyo u da nn jya na i",
+    "title": "冗談じゃない。",
+    "album": "开什么玩笑。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "5.mp3": {
+    "artist": "ki n ji ra re ru ho do chi ka zu ki ta ku naru",
+    "title": "禁じられるほど近づきたくなる",
+    "album": "越是禁忌 越想靠近",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "50.mp3": {
+    "artist": "u wa no so ra na ko to oo i si",
+    "title": "上の空なこと多いし",
+    "album": "总是心不在焉的",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "51.mp3": {
+    "artist": "yo ku de ki ma si ta",
+    "title": "よくできました",
+    "album": "干得漂亮",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "52.mp3": {
+    "artist": "sai tei",
+    "title": "最低",
+    "album": "真差劲",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "53.mp3": {
+    "artist": "ji tu ni kyo u ka nn shi ma su ne",
+    "title": "実に共感しますね",
+    "album": "深有同感",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "54.mp3": {
+    "artist": "na ni ka go i ri yo u de su ka",
+    "title": "何かご入り用ですか？",
+    "album": "您需要点什么？",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "55.mp3": {
+    "artist": "o do ki ku da sa I",
+    "title": "おどきください",
+    "album": "请您让一下",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "56.mp3": {
+    "artist": "ku bi wo a ra tte ma tte I ro",
+    "title": "首を洗って待っていろ！",
+    "album": "给我等着吧",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "57.mp3": {
+    "artist": "koma ka i ko to wa sa te o ki",
+    "title": "細かいことはさておき",
+    "album": "不说这些细节了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "58.mp3": {
+    "artist": "da ma tte te ku da sai",
+    "title": "黙っててください",
+    "album": "请你闭嘴",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "59.mp3": {
+    "artist": "a ta tta",
+    "title": "当たった",
+    "album": "猜中了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "6.mp3": {
+    "artist": "hontou nitsurakatta yo ne",
+    "title": "本当につらかったよね",
+    "album": "真的很痛苦吧;",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "60.mp3": {
+    "artist": "yo ke i na se wa de su",
+    "title": "余計なお世話です",
+    "album": "你管太多了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "61.mp3": {
+    "artist": "o re ha si zu ka ni ku ra si ta I",
+    "title": "俺は静かに暮らしたい",
+    "album": "我想安安稳稳地过日子",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "62.mp3": {
+    "artist": "tyo tto ki te",
+    "title": "ちょっと来て。",
+    "album": "过来一下。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "63.mp3": {
+    "artist": "so no hi tu yo u ha a ri ma se nn",
+    "title": "その必要はありません",
+    "album": "沒那个必要",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "64.mp3": {
+    "artist": "ki mo i de su yo",
+    "title": "キモイですよ",
+    "album": "恶心死了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "65.mp3": {
+    "artist": "kamisama wa ma t ta ku mo t te hu kou hei da",
+    "title": "神様はまったくもって不公平だ",
+    "album": "上天也太欺负人了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "66.mp3": {
+    "artist": "ko re de su mu to o mo u na yo",
+    "title": "これで済むと思うなよ",
+    "album": "别以为就这样算了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "67.mp3": {
+    "artist": "so uiu mondaija nai",
+    "title": "そういう問題じゃない",
+    "album": "不是这个问题",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "68.mp3": {
+    "artist": "nani tyo u shi ni no tte nn no",
+    "title": "何調子に乗ってんの",
+    "album": "别得意忘形了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "69.mp3": {
+    "artist": "su ki ni shi ro",
+    "title": "好きにしろ",
+    "album": "随你便",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "7.mp3": {
+    "artist": "ore i ki te ru da ke de sei i p pa i na n da",
+    "title": "俺生きてるだけで精いっぱいなんだ",
+    "album": "光是生存 就已经让我竭尽全力",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "70.mp3": {
+    "artist": "ko re i jyo u ji kan wo mu da ni su ru na",
+    "title": "これ以上時間を無駄にするな",
+    "album": "别再浪费时间了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "71.mp3": {
+    "artist": "ga kka ri su ru na",
+    "title": "がっかりするな。",
+    "album": "別灰心。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "72.mp3": {
+    "artist": "o te su u o ka ke shi ma shi ta",
+    "title": "お手数おかけしました。",
+    "album": "给你添麻烦了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "73.mp3": {
+    "artist": "mi su go su ni ha i ki ma se n",
+    "title": "見過ごすわけにはいきません",
+    "album": "怎么能视而不见",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "74.mp3": {
+    "artist": "o uen suruyo",
+    "title": "応援するよ。",
+    "album": "我会支持你的。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "75.mp3": {
+    "artist": "ko re jya hon ma tuten tou jya na i no yo",
+    "title": "これじゃ本末転倒じゃないのよ",
+    "album": "这不是本末倒置吗",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "76.mp3": {
+    "artist": "tsune ni happo hu sa ga ri de su",
+    "title": "常に八方ふさがりです！",
+    "album": "我一直是四处碰壁。",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "77.mp3": {
+    "artist": "mo u cyo tto yore ru",
+    "title": "もうちょっと寄れる",
+    "album": "能再靠近一点吗？",
+    "uploadedAt": "2026-08-03T13:50:41Z"
+  },
+  "78.mp3": {
+    "artist": "sho u ga na i na",
+    "title": "しょうがないな",
+    "album": "真拿你没办法",
+    "uploadedAt": "2026-08-03T13:50:41Z"
+  },
+  "79.mp3": {
+    "artist": "ma ta ko n do ni shi yo u",
+    "title": "また今度にしよう",
+    "album": "下次再说吧。",
+    "uploadedAt": "2026-08-03T13:50:41Z"
+  },
+  "8.mp3": {
+    "artist": "o mo i da se na I",
+    "title": "思い出せない",
+    "album": "想不起来了",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "80.mp3": {
+    "artist": "ka nn chi ga i shi na i de ku da sa i ne",
+    "title": "勘違いしないでくださいね",
+    "album": "你别想太多了",
+    "uploadedAt": "2026-08-05T12:19:25Z"
+  },
+  "81.mp3": {
+    "artist": "wa ta shi ha ko u shi tu ko nn do u shi ma se h",
+    "title": "私は公私混同しません",
+    "album": "我公私分明",
+    "uploadedAt": "2026-08-05T12:19:25Z"
+  },
+  "82.mp3": {
+    "artist": "syo u syo u o ma chi ku da sa I",
+    "title": "少々お待ちください",
+    "album": "请稍等一下",
+    "uploadedAt": "2026-08-07T13:24:42Z"
+  },
+  "83.mp3": {
+    "artist": "dokka machigatte masu ka",
+    "title": "どっか間違ってますか",
+    "album": "我哪里弄错了吗",
+    "uploadedAt": "2026-08-07T13:24:42Z"
+  },
+  "84.mp3": {
+    "artist": "mi chi ga ko mu ma e ni ha ya ku i ke",
+    "title": "道がこむ前に早く行け",
+    "album": "趁着路不堵快走吧",
+    "uploadedAt": "2026-08-08T12:32:27Z"
+  },
+  "85.mp3": {
+    "artist": "na nn ka o to na ppo i ka kko u da ne",
+    "title": "何か大人っぽい格好だね",
+    "album": "今天打扮得挺成熟呢",
+    "uploadedAt": "2026-08-08T12:42:03Z"
+  },
+  "9.mp3": {
+    "artist": "ne e, mo u chotto tsukiatte yo",
+    "title": "ねえもうちょっとつきあってよ",
+    "album": "你再陪我一会吧",
+    "uploadedAt": "2026-07-30T13:20:35Z"
+  }
+}
