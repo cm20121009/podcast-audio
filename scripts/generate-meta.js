@@ -1,5 +1,4 @@
 import fs from "fs";
-import fetch from "node-fetch";
 
 const AUDIO_DIR = "public/audio";
 const META_API = "https://id3.cm20121009.workers.dev/meta?file=";
@@ -10,6 +9,8 @@ async function main() {
   const meta = {};
 
   for (const file of files) {
+    console.log("Processing:", file);
+
     const m = await fetch(META_API + file).then(r => r.json());
     const t = await fetch(TIME_API + file).then(r => r.json());
 
@@ -22,6 +23,7 @@ async function main() {
   }
 
   fs.writeFileSync("public/meta.json", JSON.stringify(meta, null, 2));
+  console.log("meta.json generated successfully.");
 }
 
 main();
