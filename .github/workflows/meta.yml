@@ -1,0 +1,29 @@
+name: Generate meta.json
+
+on:
+  push:
+    paths:
+      - 'public/audio/*.mp3'
+
+jobs:
+  build-meta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate meta.json
+        run: |
+          node scripts/generate-meta.js
+
+      - name: Commit meta.json
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add public/meta.json
+          git commit -m "Update meta.json"
+          git push
