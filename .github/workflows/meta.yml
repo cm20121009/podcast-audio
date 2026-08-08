@@ -4,21 +4,23 @@ on:
   push:
     paths:
       - 'public/audio/*.mp3'
+  workflow_dispatch:
 
 jobs:
   build-meta:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Install Node
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
       - name: Generate meta.json
-        run: |
-          node scripts/generate-meta.js
+        run: node scripts/generate-meta.js
 
       - name: Commit meta.json
         run: |
