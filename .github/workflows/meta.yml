@@ -3,7 +3,7 @@ name: Generate meta.json
 on:
   push:
     paths:
-      - "public/audio/*.mp3"
+      - 'public/audio/*.mp3'
   workflow_dispatch:
 
 jobs:
@@ -13,33 +13,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 2  # 重要：需要上一个 commit 来计算变更文件
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Get changed MP3 files
-        id: changed
-        run: |
-          # 如果是第一次运行，可能没有上一个 commit，那就全量
-          if [ "$(git rev-parse HEAD~1 2>/dev/null)" = "" ]; then
-            echo "No previous commit, will scan all files"
-            echo "all_files=true" >> "$GITHUB_OUTPUT"
-            echo "changed_files=" >> "$GITHUB_OUTPUT"
-          else
-            # 获取相对于仓库根目录的变更文件列表
-            files=$(git diff --name-only HEAD~1 HEAD -- 'public/audio/*.mp3' | tr '\n' ' ' | sed 's/ *$//')
-            echo "changed_files=$files" >> "$GITHUB_OUTPUT"
-            echo "all_files=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Generate meta.json
-        env:
-          ALL_FILES: ${{ steps.changed.outputs.all_files }}
-          CHANGED_FILES: ${{ steps.changed.outputs.changed_files }}
         run: node scripts/generate-meta.js
 
       - name: Commit meta.json
@@ -47,5 +27,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add public/meta.json
-          # 如果没有任何变化，就不要 commit
-          git diff --cached
+          git commit -m "Update meta.json"
+          git push
