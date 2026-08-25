@@ -11,6 +11,12 @@
     "album": "欢迎你再来",
     "uploadedAt": "2026-07-30T13:20:35Z"
   },
+  "100.mp3": {
+    "artist": "o na ka su i ta",
+    "title": "おなかすいた",
+    "album": "肚子好饿",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
   "11.mp3": {
     "artist": "na ni ka su to re su de mo a ru no ka",
     "title": "何かストレスでもあるのか？",
@@ -509,10 +515,88 @@
     "album": "隐约觉得不妙。",
     "uploadedAt": "2026-08-10T12:32:45Z"
   },
+  "87.mp3": {
+    "artist": "ko no ke n ha i to ga ta n to u su ru so u de su",
+    "title": "この件は伊藤が担するそうです",
+    "album": "这件事据说由伊藤来负责",
+    "uploadedAt": "2026-08-11T11:45:02Z"
+  },
+  "88.mp3": {
+    "artist": "ryo usin ga i ta n da n de syo",
+    "title": "良心が痛んだんでしょ",
+    "album": "你的良心也很痛吧",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "89.mp3": {
+    "artist": "ka nn ga e ga a ma ka tta",
+    "title": "考えが甘かった",
+    "album": "我想得太天真了",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
   "9.mp3": {
     "artist": "ne e, mo u chotto tsukiatte yo",
     "title": "ねえもうちょっとつきあってよ",
     "album": "你再陪我一会吧",
     "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "90.mp3": {
+    "artist": "o ti tu i te ku da sa I",
+    "title": "落ち着いてください",
+    "album": "请冷静一下",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "91.mp3": {
+    "artist": "su gu n�� mu ka i ma su",
+    "title": "すぐに向かいます",
+    "album": "我马上就来",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "92.mp3": {
+    "artist": "i i ka ge nn ni shi ro yo",
+    "title": "いい加減にしろよ",
+    "album": "够了没有",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "93.mp3": {
+    "artist": "kii te ma shi ta ka",
+    "title": "聞いてましたか",
+    "album": "你听我说话了吗",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "94.mp3": {
+    "artist": "ｉe o ki zu ka i na ku",
+    "title": "いえ・お気遣いなく",
+    "album": "不，别担心我",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "95.mp3": {
+    "artist": "na n te iu ka",
+    "title": "なんていうか",
+    "album": "怎么说呢",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "96.mp3": {
+    "artist": "ta n to u cyo ku nyu u ni mo u si ma su",
+    "title": "単刀直入に申します",
+    "album": "我就开门见山直说了",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "97.mp3": {
+    "artist": "wa ka re te ho si I",
+    "title": "別れてほしい",
+    "album": "我们分手吧",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "98.mp3": {
+    "artist": "ki i te mo i i de su ka",
+    "title": "聞いてもいいですか？",
+    "album": "我问你件事行吗",
+    "uploadedAt": "2026-08-25T11:38:22Z"
+  },
+  "99.mp3": {
+    "artist": "ka tta tsu mo ri ka yo",
+    "title": "勝ったつもりかよ！",
+    "album": "你以为你赢了是不是",
+    "uploadedAt": "2026-08-25T11:38:22Z"
   }
 }
