@@ -17,11 +17,89 @@
     "album": "肚子好饿",
     "uploadedAt": "2026-08-25T11:38:22Z"
   },
+  "101.mp3": {
+    "artist": "a to do no gu ra i de tu ki ma su ka",
+    "title": "あとどのぐらいで着きますか",
+    "album": "请问还有多久能到啊",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "102.mp3": {
+    "artist": "go ki ge n na na me no yo u de su na",
+    "title": "ご機嫌斜めのようですな",
+    "album": "您心情不太好啊",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "103.mp3": {
+    "artist": "e n ryo su ru ko to wa na I",
+    "title": "遠慮することはない",
+    "album": "你用不着客气",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "104.mp3": {
+    "artist": "ma ta ko n do yu k ku ri ha na so u",
+    "title": "また今度ゆっくり話そう",
+    "album": "下次再好好聊吧",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "105.mp3": {
+    "artist": "mo u ho tto i te yo",
+    "title": "もうほっといてよ",
+    "album": "别管我了",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "106.mp3": {
+    "artist": "baka no a i te su ru ya tsu mo ba ka da na",
+    "title": "バカの相手するやつもバカだな",
+    "album": "搭理傻子的家伙也是傻子",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "107.mp3": {
+    "artist": "yo ru ha ha yaku ne te a sa ha ya ku o ki te",
+    "title": "夜は早く寝て朝早く起きて",
+    "album": "你要早睡早起",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "108.mp3": {
+    "artist": "sukoshidake hanashi o ki i te ku da sa I",
+    "title": "少しだけ話を聞いてください",
+    "album": "请各位听我说几句",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "109.mp3": {
+    "artist": "o wa tta ra re n ra ku su ru",
+    "title": "終わったら連絡する",
+    "album": "结束后我再联系你",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
   "11.mp3": {
     "artist": "na ni ka su to re su de mo a ru no ka",
     "title": "何かストレスでもあるのか？",
     "album": "有什么压力吗？",
     "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "110.mp3": {
+    "artist": "Tsureta yo",
+    "title": "釣れたよ",
+    "album": "他上钩了",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "111.mp3": {
+    "artist": "kore do kki ri da yo ne",
+    "title": "これドッキリだよね？",
+    "album": "这是在整人吧",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "112.mp3": {
+    "artist": "ko re tu ma ra na i mo no de su ke do",
+    "title": "これつまらないものですけど",
+    "album": "一点小意思不成敬意。",
+    "uploadedAt": "2026-09-08T11:49:43Z"
+  },
+  "113.mp3": {
+    "artist": "o o ge sa de su",
+    "title": "おおげさです",
+    "album": "你太夸张了",
+    "uploadedAt": "2026-09-08T11:49:43Z"
   },
   "12.mp3": {
     "artist": "ima kara demo tadase masu yo",
