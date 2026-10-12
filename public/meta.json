@@ -101,11 +101,107 @@
     "album": "你太夸张了",
     "uploadedAt": "2026-09-08T11:49:43Z"
   },
+  "114.mp3": {
+    "artist": "ze tta i yu ru sa na i",
+    "title": "絶対許さない",
+    "album": "我绝对不会原谅你",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "115.mp3": {
+    "artist": "hi do i ka o",
+    "title": "ひどい顔",
+    "album": "脸色好差",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "116.mp3": {
+    "artist": "u ma re tu ki de su",
+    "title": "生まれつきです",
+    "album": "天生的",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "117.mp3": {
+    "artist": "mi nn na a ma i ne",
+    "title": "みんな甘いね",
+    "album": "你们都太幼稚了",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "118.mp3": {
+    "artist": "anta ga nani katamatten no yo",
+    "title": "あんたが何 固まってんのよ",
+    "album": "你发什么呆啊",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "119.mp3": {
+    "artist": "o ma e ha ji shi nn ka da na",
+    "title": "お前は自信家だな",
+    "album": "你还真自信",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
   "12.mp3": {
     "artist": "ima kara demo tadase masu yo",
     "title": "今からでも正せますよ",
     "album": "亡羊补牢 为时未晚",
     "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "120.mp3": {
+    "artist": "ha kki ri shi te ku da sa I",
+    "title": "はっきりしてください",
+    "album": "请你说清楚",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "121.mp3": {
+    "artist": "fu ka ku ha nn se i shi te o ri ma su",
+    "title": "深く反省しております",
+    "album": "我深切地反省着",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "122.mp3": {
+    "artist": "a me ga hu ri so u da",
+    "title": "雨が降りそうだ。",
+    "album": "快要下雨了。",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "123.mp3": {
+    "artist": "kanjoteki ni na t ta ra ma ke da ka ra",
+    "title": "感情的になったら負けだから",
+    "album": "要是感情用事就完了",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "124.mp3": {
+    "artist": "te ki t�� ni su wa tte te",
+    "title": "適当に座ってて",
+    "album": "你随便坐",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "125.mp3": {
+    "artist": "a nn ta ho ne ga a ru",
+    "title": "あんた骨がある",
+    "album": "你真有胆量",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "126.mp3": {
+    "artist": "tsumaran ningen ni naru na",
+    "title": "つまらん人間になるな",
+    "album": "不要成为无聊的人",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "127.mp3": {
+    "artist": "se tu na i de su ne",
+    "title": "せつないですね",
+    "album": "真叫人心酸啊",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "128.mp3": {
+    "artist": "o ya ku ni ta te ta na ra yo ka tta de su",
+    "title": "お役に立てたならよかったです",
+    "album": "很高兴能够帮到你",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "129.mp3": {
+    "artist": "go me n, u ka tsu da t ta",
+    "title": "ごめん、うかつだった",
+    "album": "抱歉，我疏忽了",
+    "uploadedAt": "2026-10-12T12:18:05Z"
   },
   "13.mp3": {
     "artist": "wa ta si ke k ko u si n ke n da yo",
@@ -113,11 +209,95 @@
     "album": "我可是很认真的",
     "uploadedAt": "2026-07-30T13:20:35Z"
   },
+  "130.mp3": {
+    "artist": "na ni ka a tta ra i tu de mo de nn wa shi te",
+    "title": "何かあったら いつでも電話して",
+    "album": "有事的话 随时给我打电话",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "131.mp3": {
+    "artist": "ka ku go shi to i te ku da sa I",
+    "title": "覚悟しといてください",
+    "album": "你做好心理准备吧",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "132.mp3": {
+    "artist": "you ga su n da ra to t to to kae re",
+    "title": "用が済んだら、とっとと帰れ",
+    "album": "没事就快走",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "133.mp3": {
+    "artist": "nani hito tsu kokoroata ri gana i",
+    "title": "何一つ心当たりがない",
+    "album": "我想不出有什么好道歉的",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "134.mp3": {
+    "artist": "ki bi shi i nn de su ne",
+    "title": "厳しいんですね",
+    "album": "真是严格啊。",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "135.mp3": {
+    "artist": "yoxi ii kamosirenai",
+    "title": "よしいいかもしれない",
+    "album": "好！这个应该不错",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "136.mp3": {
+    "artist": "u ka re ru no wa ma da haya i de su",
+    "title": "浮かれるのはまだ早いです",
+    "album": "别高兴得太早了",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "137.mp3": {
+    "artist": "Kore osuwake desu",
+    "title": "これお裾分けです",
+    "album": "这是分给您的",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "138.mp3": {
+    "artist": "sumimasen, nanika dashabatchatte",
+    "title": "すみません 何か出しゃばっちゃって",
+    "album": "不好意思 我有点多管闲事了啊",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "139.mp3": {
+    "artist": "ko nn do u chi ni a so bi ni ki te ku re ru",
+    "title": "今度うちに遊びに来てくれる",
+    "album": "下次来我家玩吗",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
   "14.mp3": {
     "artist": "cyann to renraku shi te ne",
     "title": "ちゃんと連絡してね",
     "album": "记得保持联系哦",
     "uploadedAt": "2026-07-30T13:20:35Z"
+  },
+  "140.mp3": {
+    "artist": "che kku ga hi tsu yo u da",
+    "title": "チェックが必要だ",
+    "album": "有必要确认一下",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "141.mp3": {
+    "artist": "mo u mu ri de su",
+    "title": "もう無理です",
+    "album": "我受不了了",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "142.mp3": {
+    "artist": "sa i go ni ki i te i i de su ka",
+    "title": "最後に 聞いていいですか",
+    "album": "我最后可以问你件事吗",
+    "uploadedAt": "2026-10-12T12:18:05Z"
+  },
+  "143.mp3": {
+    "artist": "ni ge cya da me de su ne",
+    "title": "逃げちゃダメですね",
+    "album": "不能逃避",
+    "uploadedAt": "2026-10-12T12:18:05Z"
   },
   "15.mp3": {
     "artist": "kyo u ryoku shi te ku re na i ka na",
